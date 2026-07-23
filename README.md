@@ -1,5 +1,4 @@
-# Verificadordevideo
-Verifica si un video a sido editado
+
 <!DOCTYPE html>
 <html lang="es">
 <head>
